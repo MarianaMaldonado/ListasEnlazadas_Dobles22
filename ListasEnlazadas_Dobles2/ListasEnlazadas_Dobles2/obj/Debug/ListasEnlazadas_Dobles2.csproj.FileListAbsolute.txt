@@ -1,0 +1,10 @@
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\ListasEnlazadas_Dobles2\ListasEnlazadas_Dobles2\bin\Debug\ListasEnlazadas_Dobles2.exe.config
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\ListasEnlazadas_Dobles2\ListasEnlazadas_Dobles2\bin\Debug\ListasEnlazadas_Dobles2.exe
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\ListasEnlazadas_Dobles2\ListasEnlazadas_Dobles2\bin\Debug\ListasEnlazadas_Dobles2.pdb
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\ListasEnlazadas_Dobles2\ListasEnlazadas_Dobles2\obj\Debug\ListasEnlazadas_Dobles2.csprojResolveAssemblyReference.cache
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\ListasEnlazadas_Dobles2\ListasEnlazadas_Dobles2\obj\Debug\ListasEnlazadas_Dobles2.Form1.resources
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\ListasEnlazadas_Dobles2\ListasEnlazadas_Dobles2\obj\Debug\ListasEnlazadas_Dobles2.Properties.Resources.resources
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\ListasEnlazadas_Dobles2\ListasEnlazadas_Dobles2\obj\Debug\ListasEnlazadas_Dobles2.csproj.GenerateResource.Cache
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\ListasEnlazadas_Dobles2\ListasEnlazadas_Dobles2\obj\Debug\ListasEnlazadas_Dobles2.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\ListasEnlazadas_Dobles2\ListasEnlazadas_Dobles2\obj\Debug\ListasEnlazadas_Dobles2.exe
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\ListasEnlazadas_Dobles2\ListasEnlazadas_Dobles2\obj\Debug\ListasEnlazadas_Dobles2.pdb
